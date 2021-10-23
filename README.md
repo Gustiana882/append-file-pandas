@@ -15,6 +15,7 @@ git clone https://github.com/Gustiana882/append-file-pandas.git
 contoh
 
 Simpan file csv di folder Data
+Jalankan kode
 
 ```bash
 python3 gabung_file.py
